@@ -1,16 +1,26 @@
-### Hi there 👋
+# Lead Fullstack Developer
 
-<!--
-**Moumouls/Moumouls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/enqnZjh7ydrefjR1YO/giphy.gif)
 
-Here are some ideas to get you started:
+## My Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💎 Parse Server (Backend)
+- 📱 NextJS (Frontend)
+- 🔮 GraphQL (API)
+- ⛓ Typescript (Code)
+- 🧱 Javascript (Code)
+- 🗄 NPM/Yarn (Package manager)
+- 📺 React (Frontend)
+- ⚙️ Kubernetes (Cloud)
+- 🗂 Rancher (Kub manager)
+- 🔧 Storybook (Frontend Dev Utils)
+- 📦 Docker (Cloud/Dev Utils)
+- 🟪 GraphQL Code Gen (Back/Front Dev Utils)
+
+## Open Source
+
+### Parse Platform: [https://parseplatform.org/](https://parseplatform.org/)
+
+### Next Atomic: [https://github.com/Moumouls/next-atomic-gql](https://github.com/Moumouls/next-atomic-gql)
+
+### Next Atomic Server: [https://github.com/Moumouls/next-atomic-gql-server](https://github.com/Moumouls/next-atomic-gql-server)
