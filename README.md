@@ -1,5 +1,3 @@
-# Lead Fullstack Developer
-
 ![](https://media.giphy.com/media/enqnZjh7ydrefjR1YO/giphy.gif)
 
 ## My Stack
