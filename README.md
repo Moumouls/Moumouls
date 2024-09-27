@@ -1,20 +1,61 @@
 ![](https://media.giphy.com/media/enqnZjh7ydrefjR1YO/giphy.gif)
 
-## My Stack
+## My (favorite) Stack
 
-- 💎 Parse Server (Backend)
-- 📱 NextJS (Frontend)
-- 🔮 GraphQL (API)
-- ⛓ Typescript (Code)
-- 🧱 Javascript (Code)
-- 🗄 NPM/Yarn (Package manager)
-- 📺 React (Frontend)
-- ⚙️ Kubernetes (Cloud)
-- 🗂 Rancher (Kub manager)
-- 🔧 Storybook (Frontend Dev Utils)
-- 📦 Docker (Cloud/Dev Utils)
-- 🟪 GraphQL Code Gen (Back/Front Dev Utils)
+**Language**
+  - Javascript
+  - Node JS
+  - Typescript
 
-## Open Source
+**Front framework/utils**
+  - NextJS
+  - React
+  - Material UI
 
-### Parse Platform: [https://parseplatform.org/](https://parseplatform.org/)
+**Back framework/utils**
+  - Event driven
+  - Parse Server
+  - Nexus (prisma)
+
+**Testing**
+  - Jest
+  - Cypress (component & E2E)
+
+**Infra as Code**
+  - Terraform
+  - Kubernetes
+
+**API**
+  - GraphQL
+
+**Database**
+  - MongoDB
+
+**Cloud Provider**
+  - Google Cloud
+  - AWS
+
+**Package Manager**
+  - Yarn Monorepo (v3+)
+  - Npm
+
+**Virtualization**
+  - Docker (Alpine)
+
+**CI**
+  - Github Actions
+
+**Notable stuff i like**
+  - Semantic Release
+  - Conventional Commits
+  - Conventional Comments
+  - Husky
+  - GraphQL CodeGen
+  - Apollo
+  - DORA metrics
+  - Asana
+  - Zero trust
+  - Crypto stuff like AES/RSA/OPAQUE/HMAC
+
+## Open Source work
+- Parse Platform: [https://parseplatform.org/](https://parseplatform.org/)
