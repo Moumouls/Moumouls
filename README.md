@@ -18,3 +18,5 @@
 | **Notable stuff I like**   | Semantic Release, Conventional Commits, Conventional Comments, Husky, GraphQL CodeGen, Apollo, DORA metrics, Asana, Zero trust, Crypto stuff like AES/RSA/OPAQUE/HMAC |
 | **Open Source work**       | [Parse Platform](https://parseplatform.org/)                     |
 
+## Some Hobby
+- 2.6m Custom FPV Glider Drone with true flight control: [https://github.com/Moumouls/fpv-glider-drone](https://github.com/Moumouls/fpv-glider-drone)
